@@ -52,7 +52,7 @@ JARVIS uses offline speech recognition, allowing it to function even without an 
 
 ## 📂 Project Structure
 ```
-jarvis/
+JARVIS/
 │
 ├── JARVIS.py
 ├── aireply.py
